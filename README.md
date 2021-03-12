@@ -75,3 +75,19 @@ Enjoy!
 [13]: https://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html
 [14]: https://symfony.com/doc/current/setup/built_in_web_server.html
 [15]: https://symfony.com/doc/current/setup.html
+
+
+
+app - побольшей части конфигурационная папка
+app/Resources - 
+bin - файлики отвечают за команды из консоли
+src - храним контролеры, шаблоны, модели и т.д.
+src/AppBundle - изолированая, практически отдельная часть приложения
+var - папка с временными файлами
+test - тесты
+vendor - композер-либки
+web - посути сюда смотрит апач 
+[
+    web/app.php
+    web/app_dev.php
+]
