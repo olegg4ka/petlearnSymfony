@@ -91,3 +91,9 @@ web - посути сюда смотрит апач
     web/app.php
     web/app_dev.php
 ]
+
+
+/**************************/
+#commands#
+php bin/console assets:install
+php bin/console assets:install --symlink

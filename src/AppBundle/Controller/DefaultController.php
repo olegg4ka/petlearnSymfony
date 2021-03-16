@@ -14,10 +14,7 @@ class DefaultController extends Controller
 	 */
 	public function indexAction(Request $request)
 	{
-		$temp = 123;
-		$array = [1, 2, 3];
-		$bool = false;
-		return $this->render('default/index.html.twig', ['temp' => $temp, 'array' => $array, 'bool' => $bool]);
+		return $this->render('@App/default/index.html.twig');
 	}
 
 	/**
@@ -26,7 +23,7 @@ class DefaultController extends Controller
 	public function feedbackAction()
 	{
 		//обезательно use Symfony\Component\HttpFoundation\Response;
-		return $this->render('default/feedback.html.twig');
+		return $this->render('@App/default/feedback.html.twig');
 	}
 
 }
