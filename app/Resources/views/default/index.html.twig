@@ -2,6 +2,14 @@
 
 {% block body %}
     Hello World {{ temp }}
+
+    {% if not bool %}
+        {{ 'YES' }}
+    {% endif %}
+
+    {% for key, item in  array %}
+        {{ key }} -- {{ item }} <br>
+    {% endfor %}
 {% endblock %}
 
 {% block stylesheets %}
