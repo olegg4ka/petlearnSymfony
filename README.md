@@ -97,3 +97,14 @@ web - посути сюда смотрит апач
 #commands#
 php bin/console assets:install
 php bin/console assets:install --symlink
+
+
+
+
+/*****************************
+@Template()
+Template - путь для view
+--------------------------------------
+requirements={"id": "[0-9]+"})
+{id} - маска сифача
+* $id || Request $request - получение айди с шаблона, который в роуте
