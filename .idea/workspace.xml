@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fbcc320b-ff72-43c0-ad74-69aa53516f12" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/AppBundle/Resources/views/product" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/bundles" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -124,17 +123,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\OSPanel\domains\symfonypl\templates\bundles" />
+      <recent name="D:\OpenServer\OSPanel\domains\symfonypl\app\Resources\TwigBundle\views\Exception" />
       <recent name="D:\OpenServer\OSPanel\domains\symfonypl\src\AppBundle\Resources\views\product" />
       <recent name="D:\OpenServer\OSPanel\domains\symfonypl\src\AppBundle\Resources\public" />
       <recent name="D:\OpenServer\OSPanel\domains\symfonypl\src\AppBundle\Resources\views" />
-      <recent name="D:\OpenServer\OSPanel\domains\symfonypl\app\Resources\views\default" />
-      <recent name="D:\OpenServer\OSPanel\domains\symfonypl" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\OSPanel\domains\symfonypl\app\Resources\TwigBundle\views" />
+      <recent name="D:\OpenServer\OSPanel\domains\symfonypl\app\Resources\TwigBundle" />
       <recent name="D:\OpenServer\OSPanel\domains\symfonypl\src\AppBundle\Resources\public\fonts" />
       <recent name="D:\OpenServer\OSPanel\domains\symfonypl\src\AppBundle\Resources\public" />
       <recent name="D:\OpenServer\OSPanel\domains\symfonypl\src\AppBundle\Resources\public\js" />
-      <recent name="D:\OpenServer\OSPanel\domains\symfonypl\src\AppBundle\Resources\views" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -153,7 +153,7 @@
       <workItem from="1615710697223" duration="145000" />
       <workItem from="1615913189293" duration="3596000" />
       <workItem from="1615927907149" duration="1518000" />
-      <workItem from="1616091789966" duration="3146000" />
+      <workItem from="1616091789966" duration="4438000" />
     </task>
     <servers />
   </component>
